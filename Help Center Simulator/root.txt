@@ -1,0 +1,33 @@
+root
+Root Prompt
+What model is your device?
+root
+1
+WM200
+WM200 Model
+What is the problem with your device?
+root
+2
+WM300
+WM300 Model
+What is the problem with your device?
+WM200
+1
+No Power
+No power prompt
+Is your device plugged in?
+WM200
+2
+Not Turning On
+Not turning on prompt
+Does your device turn on at all?
+WM300
+1
+Screen Blank
+Screen blank prompt
+Is the screen showing anything?
+WM300
+2
+Overheating
+Overheating prompt
+Is your device unusually hot?

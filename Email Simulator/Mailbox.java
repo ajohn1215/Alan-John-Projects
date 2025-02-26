@@ -1,7 +1,5 @@
 /**
 * Author: Alan John
-* Student ID: 170236456
-* Recitation: 214.30 Sec 4
 */
 import java.io.*;
 import java.text.*;
